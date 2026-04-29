@@ -35,6 +35,7 @@ I'm a **Systems Engineering student** passionate about building and deploying sc
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 **DevOps & Cloud**
 
