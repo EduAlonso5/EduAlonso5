@@ -5,10 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:you@email.com">
+  <a href="ealonso0505l@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -60,22 +57,4 @@ I'm a **Systems Engineering student** passionate about building and deploying sc
 - [ ] Contribute to an open source DevOps project
 - [ ] Land my first internship in tech
 
----
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=0A66C2" alt="Profile views"/>
-</p>
-
 <p align="center"><em>"Still learning. Always building."</em></p>
-<p align="center"><em>"Automate everything. Document the rest."</em></p>
